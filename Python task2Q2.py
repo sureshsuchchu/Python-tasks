@@ -1,0 +1,12 @@
+Tamil=int(input("Enter your Tamil mark"))
+English=int(input("Enter your English mark"))
+Mathematics=int(input("Enter your Mathematics mark"))
+Science=int(input("Enter your Science mark"))
+Social_Science=int(input("Enter your Social Science mark"))
+Total_marks=Tamil+English+Mathematics+Science+Social_Science
+print(Tamil)
+print(English)
+print(Mathematics)
+print(Science)
+print(Social_Science)
+print(Total_marks)

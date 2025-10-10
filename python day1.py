@@ -1,0 +1,8 @@
+print("Sureshkumar")
+print("12.03.2003")
+print("B positive")
+print("22")
+print("Subramani")
+print("Malarselvi")
+print("B.Sc mathematics")
+print("2024")
